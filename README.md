@@ -35,9 +35,9 @@ based on what sections you keep.**
 ### Links
 
 -   Solution URL:
-    [Add solution URL here](https://your-solution-url.com)
+    [https://github.com/maikel-mattiu/frontendmentor-qr-code-challange](https://github.com/maikel-mattiu/frontendmentor-qr-code-challange)
 -   Live Site URL:
-    [Add live site URL here](https://your-live-site-url.com)
+    [https://maikel-mattiu.github.io/frontendmentor-qr-code-challange](https://maikel-mattiu.github.io/frontendmentor-qr-code-challange)
 
 ## My process
 
